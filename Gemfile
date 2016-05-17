@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-
+gem 'figaro'
 gem 'geocoder'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.6'
